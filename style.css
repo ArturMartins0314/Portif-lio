@@ -1,0 +1,72 @@
+
+body{
+    background-image: url('Granito Preto.jpg');
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+#usuario{
+    background-color: white;
+    width: 80%;
+    height: 50%;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 50px;
+    display: block;
+    box-shadow: rgba(0, 0, 0, 0.476) 0px 54px 55px, rgba(0, 0, 0, 0.271) 0px -12px 30px,rgba(0, 0, 0, 0.271) 0px 4px 6px,rgba(0, 0, 0, 0.29) 0px 12px 13px, rgba(0, 0, 0, 0.303) 0px -3px 5px;
+}
+
+#foto{
+    height: 350px;
+    border-radius: 100%;
+    padding: 0px;
+    margin-left: 40px;
+    margin-right: 80px;
+    display: block;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#texto2{
+    font-size: 35px;
+    font-family: Verdana;
+    padding-left: 80px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Agency FB;
+    border-left: 10px solid #0000004c;
+}
+h1{
+    font-size: 150px;
+    background: linear-gradient(to left, #856601, #c69802, #856601, #c69802);
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    font-family: Agency FB;
+    margin: 0px;
+    padding: 0px;
+}
+h1:hover{
+    background: linear-gradient(to left,  #c69802, #856601, #c69802, #856601);
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    cursor: pointer;
+}
+
+#Resumo{
+    background-color: white;
+    width: 80%;
+    height: 50%;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 50px;
+    display: block;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#centralizador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
